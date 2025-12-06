@@ -71,6 +71,8 @@
 
 </div>
 
+---
+
 ###
 
 <img src="https://raw.githubusercontent.com/Wxolff/Wxolff/output/snake.svg" alt="Snake animation" />
