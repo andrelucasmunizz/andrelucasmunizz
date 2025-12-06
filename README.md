@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2020  <br>📚 Atualmente aprendendo TypeScript e React  <br>🎯 Objetivos: morar em um lugar frio ❄ e falar inglês 🚀  <br>🎲 E... meu principal hobby é treinar 💪</p>
+<p align="left">✨ Criando bugs desde 2020  <br>📚 Atualmente aprendendo TypeScript e React  <br>🎯 Objetivos: morar em um lugar frio ❄ e descobrir o mundo! 🚀  <br>🎲 E... meu principal hobby é treinar 💪</p>
 
 ###
 
