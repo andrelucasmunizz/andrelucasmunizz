@@ -59,9 +59,6 @@
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
 </div>
 
-
----
-
 ## 🎯 Especialidades
 
 <div align="center">
@@ -73,8 +70,6 @@
 | Interações Imersivas | Design Systems | Lazy Loading |
 
 </div>
-
----
 
 ###
 
