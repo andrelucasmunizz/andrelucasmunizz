@@ -58,7 +58,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
 </div>
+<div align="center">
 
+| **Backgrounds Dinâmicos** | **UI/UX Design** | **Performance** |
+|:---:|:---:|:---:|
+| Canvas API | Design Responsivo | Otimização Mobile |
+| Animações Complexas | Experiência do Usuário | RequestAnimationFrame |
+| Interações Imersivas | Design Systems | Lazy Loading |
+
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/Wxolff/Wxolff/output/snake.svg" alt="Snake animation" />
