@@ -58,6 +58,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
 </div>
+
+
+---
+
+## 🎯 Especialidades
+
 <div align="center">
 
 | **Backgrounds Dinâmicos** | **UI/UX Design** | **Performance** |
@@ -67,6 +73,9 @@
 | Interações Imersivas | Design Systems | Lazy Loading |
 
 </div>
+
+---
+
 ###
 
 <img src="https://raw.githubusercontent.com/Wxolff/Wxolff/output/snake.svg" alt="Snake animation" />
